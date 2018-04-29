@@ -11,7 +11,7 @@ export class HomePage {
 
   site = { 
     url: 'Teste firebase',
-    descripton: 'Teste ionic 3 com firebase'
+    descripton: 'Teste ionic 3 com firebase '
   }
 
   constructor(public navCtrl: NavController, public db: AngularFireDatabase) {
